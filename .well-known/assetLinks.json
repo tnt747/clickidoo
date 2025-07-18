@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.clickidoo.fruitty",
+      "sha256_cert_fingerprints": [
+        "86:5C:09:DD:01:98:81:4D:DF:90:C1:35:19:0C:F7:D2:1E:DF:AB:56:C3:D7:E6:08:AE:19:5C:FB:93:C5:42:0F"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.clickidoo.testgame",
+      "sha256_cert_fingerprints": [
+        "11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00"
+      ]
+    }
+  }
+]
