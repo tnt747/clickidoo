@@ -1,12 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.aliesmaeili.twa",
-      "sha256_cert_fingerprints": [
-        "24:A6:3A:A8:89:9A:B7:E1:E4:33:EC:07:A4:75:EC:C2:A4:2F:D2:1C:5F:BC:82:FE:B5:0D:74:7A:30:67:E6:EC"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.clickidoo.fruitty",
+    "sha256_cert_fingerprints": ["86:5C:09:DD:01:98:81:4D:DF:90:C1:35:19:0C:F7:D2:1E:DF:AB:56:C3:D7:E6:08:AE:19:5C:FB:93:C5:42:0F"]
   }
-]
+}]
